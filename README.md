@@ -1,4 +1,6 @@
 # 2vue-test-plugin
+Vue.js Plugin integration testing problem
+See https://stackoverflow.com/questions/55233285/vue-js-plugin-integration-test
 
 ## Project setup
 ```
